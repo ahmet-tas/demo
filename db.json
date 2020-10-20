@@ -1,13 +1,8 @@
-[{
-  "id": "asdfsa",
-  "inputParameters": [
-    { "name": "Number1", "type": "long" },
-    { "name": "Number2", "type": "long" }
-  ],
-  "returns": { 
-    "name": "result", "type": "long" 
-  },
-  "method": {
-    "name": "multiplyNumber"
-  }
-}]
+{
+  id: 1,
+  createdAt: 1472069465,
+  name: 'Best Spagetti Ever',
+  authorId: 1,
+  directions: '1. Boil Noodles\n2.Serve with sauce',
+  style: 'italian'
+}
